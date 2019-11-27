@@ -1,4 +1,4 @@
-## Welcome to awesome game of Tetris - makde a change
+## Welcome to awesome game of Tetris - makde a change again
 
 A project based learning activity for people who are getting started with Git and GitHub.
 You can play the game at: https://ahmedsza.github.io/github-games/
